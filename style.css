@@ -1,0 +1,14 @@
+p:hover {
+  color: red;
+  cursor: pointer;
+}
+p {
+  margin-left: 12px;
+  color: black;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  background-color: gray;
+}
